@@ -130,7 +130,7 @@ Modify the block below if there are any special requirements.
   <strong>Requirements:</strong> Laptops will be provided for attendees unless told otherwise. We do most of our work on the Linux cluster; all attendees require a working Linux account in order to log onto the cluster.
 </p>
 <p>
-If you have been told that you must bring your own laptop, it is your responsibility to ensure that you have working VPN access in order to connect to the Linux cluster and Gitlab. You will also need an ssh client in order to log onto the Linux cluster.
+If you have been told that you must bring your own laptop, it is your responsibility to ensure that you have working VPN access in order to connect to the Linux cluster and Gitlab. You will also need an ssh or remote desktop client in order to log onto the Linux cluster.
 </p>
 
 {% comment %}
