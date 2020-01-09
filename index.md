@@ -174,8 +174,6 @@ Display the contact email address set in the configuration file.
   {% endif %}
   <a href='mailto:{{email}}'>{{email}}</a>
   {% endfor %}
-  {% else %}
-  to-be-announced
   {% endif %}
   {% if page.email %}
   for more information.
