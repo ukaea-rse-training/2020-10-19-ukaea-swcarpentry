@@ -38,8 +38,7 @@ for your learners to practice in.
     frequently teach more than one workshop and therefore need multiple copies
     of the repository.
 
-3.  Paste the url of this repo as the old repository to clone:
-    <https://github.com/carpentries/workshop-template>.
+3.  Paste the url of this repo as the old repository to clone.
 
 4.  Select the owner for your new repository.
     (This will probably be you, but may instead be an organization you belong to.)
