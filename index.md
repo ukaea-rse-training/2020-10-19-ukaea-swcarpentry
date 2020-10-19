@@ -1,15 +1,15 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "UK Atomic Energy Authority"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "LRDC, Culham Science Centre, Abingdon"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Online (Teams)"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "uk"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "51.657"     # decimal latitude of workshop venue (use https://www.latlong.net/)
 longitude: "-1.230"    # decimal longitude of the workshop venue (use https://www.latlong.net)
-humandate: "29 May; 1 and 6 June, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "19, 21 and 23 October, 2020"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "10:00 - 16:00"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2020-05-29      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2020-06-06        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+startdate: 2020-10-19      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2020-10-23        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Matti Juvonen", "Chris MacMackin", "Qingfeng Xia"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 # helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 # email: [""]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
